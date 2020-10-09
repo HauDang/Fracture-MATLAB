@@ -1,9 +1,5 @@
-clc
-% close all
-clear
-format long
-CQPEs = 1;
-EleTyp = 'T6';
+clc; clear; format long
+EleTyp = 'T6'; % T3 OR T6
 E = 1; nuy = 0.3;
 % plane stress / very thin plate
 thick = 0.2;
