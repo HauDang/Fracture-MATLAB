@@ -1,4 +1,4 @@
-# Compute the stress intensity fractors
+# Compute the stress intensity factors
 
 This code implements the first example of the published paper: 
 
