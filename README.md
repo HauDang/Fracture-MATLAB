@@ -9,3 +9,5 @@ Main features:
 2. Implement an adaptive re-meshing process based on the error estimator.
 
 3. Compute the stress intensity factor using Quater point elements.
+
+run Main_SIFs.m
